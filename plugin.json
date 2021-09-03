@@ -1,0 +1,11 @@
+{
+	"preload": "preload.js",
+	"logo": "logo.png",
+	"features": [
+		{
+			"code": "tiktok",
+			"explain": "抖音去水印",
+			"cmds":["抖音", "tiktok","dy"]
+		}
+	]
+}
